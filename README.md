@@ -18,4 +18,6 @@ Papers related to FewShot Knowledge Graph Completion
 1. [Few-shot Relational Reasoning via Connection Subgraph Pretraining] (https://arxiv.org/pdf/2210.06722.pdf)
 
 2023
-1. [HIERARCHICAL RELATIONAL LEARNING FOR FEW-SHOT KNOWLEDGE GRAPH COMPLETION] (https://openreview.net/pdf?id=zlwBI2gQL3K)
+1. [Hierarchical Relation Learning For Few-Shot Knowledge Graph Completion] (https://openreview.net/pdf?id=zlwBI2gQL3K)
+2. [Semantic Interaction Matching Network for Few-shot Knowledge Graph Completion] (https://dl.acm.org/doi/pdf/10.1145/3589557)
+3. [Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion] (https://dl.acm.org/doi/pdf/10.1145/3539618.3591743)
